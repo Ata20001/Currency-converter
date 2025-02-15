@@ -1,1 +1,1 @@
-# Currency-converter
+The Currency Converter is a web or mobile application that allows users to easily convert currencies between different countries in real-time. It fetches live exchange rates from a reliable API to ensure accurate conversions. The tool provides an intuitive interface to support various currencies, making it a convenient solution for travelers, businesses, and finance enthusiasts.
